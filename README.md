@@ -21,12 +21,18 @@
 [![Solidity](https://img.shields.io/badge/solidity-black?style=for-the-badge&logo=solidity)](https://github.com/jocavuleta)
 [![Rust](https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust)](https://github.com/jovanvuleta)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/jovanvuleta)
+
+### Databases
+[![PostgreSQL](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)](https://github.com/jovanvuleta)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/jovanvuleta)
+[![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/jovanvuleta)
+[![Neo4J](https://img.shields.io/badge/neo4j-black?style=for-the-badge&logo=neo4j)](https://github.com/jovanvuleta)
 
 ### Technologies & Frameworks
 [![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)](https://github.com/jovanvuleta)
 [![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)](https://github.com/jovanvuleta)
 [![SpringBoot](https://img.shields.io/badge/spring-black?style=for-the-badge&logo=spring)](https://github.com/jovanvuleta)
+[![NodeJS](https://img.shields.io/badge/nodejs-black?style=for-the-badge&logo=node.js)](https://github.com/jovanvuleta)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/jovanvuleta)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/jovanvuleta)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/jovanvuleta)
@@ -35,7 +41,7 @@
 [![Terraform](https://img.shields.io/badge/terraform-black?style=for-the-badge&logo=terraform)](https://github.com/jovanvuleta)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/jovanvuleta)
 [![Kubernetes](https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes)](https://github.com/jovanvuleta)
-[![AWS](https://img.shields.io/badge/aws-black?style=for-the-badge&logo=aws)](https://github.com/jovanvuleta)
+[![AWS](https://img.shields.io/badge/aws-black?style=for-the-badge&logo=amazon-aws)](https://github.com/jovanvuleta)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/jovanvuleta)
