@@ -24,7 +24,7 @@
 
 ### Databases
 [![PostgreSQL](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)](https://github.com/jovanvuleta)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/jovanvuleta)
+[![MySQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/jovanvuleta)
 [![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/jovanvuleta)
 [![Neo4J](https://img.shields.io/badge/neo4j-black?style=for-the-badge&logo=neo4j)](https://github.com/jovanvuleta)
 
