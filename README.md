@@ -12,6 +12,14 @@
     <a href="https://leetcode.com/jocavuleta">
         <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
     </a>
+    <a href="https://www.hackerrank.com/jocavuleta">
+        <img src="https://img.shields.io/badge/HackerRank-blue?style=flat-square&logo=HackerRank" alt="HackerRank">
+    </a>
+    
+<!-- [![Gmail Badge](https://img.shields.io/badge/-jovan.vuleta.17@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jovan.vuleta.17@gmail.com)](mailto:jovan.vuleta.17@gmail.com)     -->
+[![LeetCode user jocavuleta](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fjocavuleta&logo=leetcode&logoColor=yellow)](https://leetcode.com/jocavuleta/)
+
+</a>
 </p>
 
 ### Languages
