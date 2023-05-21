@@ -30,9 +30,11 @@
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/jovanvuleta)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/jovanvuleta)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/jovanvuleta)
+
+### DevOps & Cloud
+[![Terraform](https://img.shields.io/badge/terraform-black?style=for-the-badge&logo=terraform)](https://github.com/jovanvuleta)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/jovanvuleta)
 [![Kubernetes](https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes)](https://github.com/jovanvuleta)
-[![Terraform](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/jovanvuleta)
 [![AWS](https://img.shields.io/badge/aws-black?style=for-the-badge&logo=aws)](https://github.com/jovanvuleta)
 
 ### OS
