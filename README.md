@@ -43,8 +43,15 @@
 [![Kubernetes](https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes)](https://github.com/jovanvuleta)
 [![AWS](https://img.shields.io/badge/aws-black?style=for-the-badge&logo=amazon-aws)](https://github.com/jovanvuleta)
 
+### Deployment services
+[![Heroku](https://img.shields.io/badge/heroku-black?style=for-the-badge&logo=heroku)](https://github.com/jovanvuleta)
+[![Firebase](https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=firebase)](https://hub.docker.com/u/jovanvuleta)
+[![Netlify](https://img.shields.io/badge/netlify-black?style=for-the-badge&logo=netlify)](https://github.com/jovanvuleta)
+[![Vercel](https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel)](https://github.com/jovanvuleta)
+
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/jovanvuleta)
+[![Unix](https://img.shields.io/badge/apple-black?style=for-the-badge&logo=apple)](https://github.com/jovanvuleta)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/jovanvuleta)
 
 <details>
