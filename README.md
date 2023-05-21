@@ -3,9 +3,9 @@
 <p align="center">
     <b>Welcome to my GitHub page!🙌</b><br><br>
     <i>
-    - :rocket: Currently working as a Software Engineer at ChainPort<br>
+    :rocket: Currently working as a Software Engineer at ChainPort<br>
     </i>
-        - 📫 How to reach me: jovan.vuleta.17@gmail.com<br><br>
+        📫 How to reach me: jovan.vuleta.17@gmail.com<br><br>
     <a href="https://www.linkedin.com/in/jovan-vuleta">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
