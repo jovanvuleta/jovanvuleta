@@ -3,7 +3,7 @@
 <p align="center">
     <b>Welcome to my GitHub page!🙌</b><br><br>
     <i>
-    :rocket: Currently working as a Software Engineer at ChainPort<br>
+    :rocket: Currently working as a Software Engineer at Dcentralab<br>
     </i>
         📫 How to reach me: jovan.vuleta.17@gmail.com<br><br>
     <a href="https://www.linkedin.com/in/jovan-vuleta">
@@ -24,11 +24,12 @@
 
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/jovanvuleta)
+[![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/jovanvuleta)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/jovanvuleta)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/jovanvuleta)
 [![Solidity](https://img.shields.io/badge/solidity-black?style=for-the-badge&logo=solidity)](https://github.com/jocavuleta)
-[![Rust](https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust)](https://github.com/jovanvuleta)
-[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/jovanvuleta)
+<!--[![Rust](https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust)](https://github.com/jovanvuleta) -->
+<!--[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/jovanvuleta) -->
 
 ### Databases
 [![PostgreSQL](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)](https://github.com/jovanvuleta)
@@ -37,6 +38,7 @@
 [![Neo4J](https://img.shields.io/badge/neo4j-black?style=for-the-badge&logo=neo4j)](https://github.com/jovanvuleta)
 
 ### Technologies & Frameworks
+[![FastAPI](https://img.shields.io/badge/fastapi-black?style=for-the-badge&logo=fastapi)](https://github.com/jovanvuleta)
 [![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)](https://github.com/jovanvuleta)
 [![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)](https://github.com/jovanvuleta)
 [![SpringBoot](https://img.shields.io/badge/spring-black?style=for-the-badge&logo=spring)](https://github.com/jovanvuleta)
