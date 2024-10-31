@@ -36,11 +36,14 @@
 [![MySQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/jovanvuleta)
 [![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/jovanvuleta)
 [![Neo4J](https://img.shields.io/badge/neo4j-black?style=for-the-badge&logo=neo4j)](https://github.com/jovanvuleta)
+[![Redis](https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis)](https://github.com/jovanvuleta)
+[![DynamoDB](https://img.shields.io/badge/dynamodb-black?style=for-the-badge&logo=amazondynamodb)](https://github.com/jovanvuleta)
 
 ### Technologies & Frameworks
 [![FastAPI](https://img.shields.io/badge/fastapi-black?style=for-the-badge&logo=fastapi)](https://github.com/jovanvuleta)
 [![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)](https://github.com/jovanvuleta)
 [![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)](https://github.com/jovanvuleta)
+[![NestJS](https://img.shields.io/badge/nestjs-black?style=for-the-badge&logo=nestjs)](https://github.com/jovanvuleta)
 [![SpringBoot](https://img.shields.io/badge/spring-black?style=for-the-badge&logo=spring)](https://github.com/jovanvuleta)
 [![NodeJS](https://img.shields.io/badge/nodejs-black?style=for-the-badge&logo=node.js)](https://github.com/jovanvuleta)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/jovanvuleta)
@@ -51,6 +54,7 @@
 [![Terraform](https://img.shields.io/badge/terraform-black?style=for-the-badge&logo=terraform)](https://github.com/jovanvuleta)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/jovanvuleta)
 [![Kubernetes](https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes)](https://github.com/jovanvuleta)
+[![Helm](https://img.shields.io/badge/helm-black?style=for-the-badge&logo=helm)](https://github.com/jovanvuleta)
 [![AWS](https://img.shields.io/badge/aws-black?style=for-the-badge&logo=amazon-aws)](https://github.com/jovanvuleta)
 
 ### Deployment services
