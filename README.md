@@ -3,7 +3,7 @@
 <p align="center">
     <b>Welcome to my GitHub page!🙌</b><br><br>
     <i>
-    :rocket: Currently working as a Software Engineer at Dcentralab<br>
+    :rocket: Currently working as a Infrastructure Engineer at Trust Machines<br>
     </i>
         📫 How to reach me: jovan.vuleta.17@gmail.com<br><br>
     <a href="https://www.linkedin.com/in/jovan-vuleta">
